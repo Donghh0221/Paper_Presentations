@@ -1,7 +1,7 @@
 # Paper_Presentations
 Presentations while studying as an undergraduate intern in DILab, Korea univ.
 
-VCR and ViLBERT Presentatations are made by me with Noah Lee(Korea univ, statistic).
+VCR and ViLBERT Presentatations are made by me and Noah Lee(Korea univ, statistic).
 Other Presentations are made by myself.
 
 Thanks for all the authors of the papers.
