@@ -2,7 +2,7 @@
 Presentations while studying as an undergraduate intern in DILab, Korea univ.
 
 ## 1. UNITER
-This presentation for [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740).
+This presentation is for [UNITER: UNiversal Image-TExt Representation Learning](https://arxiv.org/abs/1909.11740).
 
 Source code for the UNITER is publicly available at [here](https://github.com/ChenRocks/UNITER).
 
