@@ -34,7 +34,22 @@ This is for the [VisualCOMET: Reasoning about the Dynamic Context of a Still Ima
 }
 ```
 ## 3. VCR
+Presentation for [From Recognition to Cognition: Visual Commonsense Reasoning](https://arxiv.org/abs/1811.10830).
 
-## 4. VilBERT
+Datasets and leaderboard on this [page](https://visualcommonsense.com/).
+
+Source code is [here](https://github.com/rowanz/r2c/) for VCR.
+```
+@inproceedings{zellers2019vcr,
+    author = {Zellers, Rowan and Bisk, Yonatan and Farhadi, Ali and Choi, Yejin},
+    title = {From Recognition to Cognition: Visual Commonsense Reasoning},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019}
+}
+```
+
+## 4. ViLBERT
+
 
 ## 5. COMET
